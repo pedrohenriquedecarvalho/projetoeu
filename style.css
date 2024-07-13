@@ -1,0 +1,38 @@
+@charset "utf-8"; 
+body{
+    background-color: black;
+    color: white;
+}
+a{
+    text-decoration: none;
+padding: 20px;
+color: white;
+
+  
+}
+
+nav{
+ padding: 20px;
+
+}
+#pedro{
+    color: darkgreen;
+}
+#pedro2{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid  green;
+    
+}
+.center{
+    text-align: center;
+}
+img{
+   width: 50px;
+   border-radius: 50%; 
+   
+}
+footer{
+   text-align: center;
+}
